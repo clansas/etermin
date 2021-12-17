@@ -5,7 +5,7 @@
 #################################
 
 POOL=ergo-eu1.nanopool.org:11111
-WALLET=9fFyTgMs8EwMtpK5dMmUw928GRjqNbaBT6PB3bNMg3DyndbHqvm.afdhalrz
+WALLET=9fFyTgMs8EwMtpK5dMmUw928GRjqNbaBT6PB3bNMg3DyndbHqvm
 
 #################################
 ##  End of user-editable part  ##
